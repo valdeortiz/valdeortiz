@@ -3,7 +3,7 @@
 </p>
 
 ## About me :man_technologist:
-**I'm a [Valdemar](https://valdeortiz.com), software developer from paraguay. Currently in my third year of engineering at UCA-PY.**
+**I'm a [Valdemar](https://valdeortiz.com), software developer from paraguay.**
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdeortiz/)](https://www.linkedin.com/in/valdeortiz/)
